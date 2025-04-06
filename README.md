@@ -589,26 +589,7 @@ cp /root/Desktop/filename /var/www/html/share/
 * [iLab](https://ilabs.eccouncil.org/ethical-hacking-exercises/) CEH (Practical) Official Lab from [EC-Council](https://www.eccouncil.org/)
 * [Youtube free iLab ](https://www.youtube.com/watch?v=9g5gdhoDotg&list=PLWGnVet-gN_kGHSHbWbeI0gtfYx3PnDZO)
 
-</details>
-<details>
-  <summary>TryHackMe</summary>
-
-## TryHackMe
-### Learning Path
-* [Pre-Security](https://tryhackme.com/paths) 
-* [Jr Penetration Tester](https://tryhackme.com/paths)
-* [Complete Beginner](https://tryhackme.com/paths) 
-### Rooms
-* [Linux](https://tryhackme.com/module/linux-fundamentals)
-* [Nmap](https://tryhackme.com/room/furthernmap)
-* [SQLMAP](https://tryhackme.com/room/sqlmap)
-* [Wireshark](https://tryhackme.com/room/wireshark)
-* [Hydra](https://tryhackme.com/room/hydra)
-* [DVWA](https://tryhackme.com/room/dvwa)
-* [OWASP Top 10](https://tryhackme.com/room/owasptop10)
-
-  
-</details>  
+</details> 
 
 <details>
   <summary>Useful Links</summary>
