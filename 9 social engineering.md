@@ -1,1 +1,1 @@
-detect phishing via a and b
+Detect phishing with netcraft, phishtank
